@@ -1,0 +1,1 @@
+This is a collection of shells originally found in an archive called "103_top_shell.rar," which is no longer online. For all I know, half of these are backdoored. Let's just assume these are going to be used for educational purposes on your own network, ok?
